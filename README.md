@@ -7,7 +7,7 @@ Developing an AI startup that deploys sensors, receives a stream of data from th
 Reducing the cost of running a business while increasing the livability and productivity of workers.
 
 ### Tools and Technologies to be used
-1. MySQL or SQLite for the data warehouse
+1. SQLite - data warehouse
 2. Airflow - orchestration service
 3. DBT - ELT tool
 4. Redash - reporting environmment
